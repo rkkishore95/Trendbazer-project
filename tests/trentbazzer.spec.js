@@ -54,7 +54,7 @@ test.skip('TC_BC_002  Search the valid content in the search box', async ({ page
 });
 
 
-test('TC_BC_053 Navigate to the Trending Clothes section', async ({ page }) => {
+test('TC_BC_053 End to End Project Testing', async ({ page }) => {
 
     //Launch the URL
     await page.goto('https://trendbazar.in/?v=13b5bfe96f3e');
