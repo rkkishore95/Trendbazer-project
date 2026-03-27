@@ -1,0 +1,115 @@
+Project Flow
+
+      validate a  login page
+      Validate Navigate bar
+      Browse Category -> trending cloth -> print all product details -> filter 500 to 1500 -> Description handling -> add to cart (Same like to all browsing category)-> Checkout -> Payment
+      validate a Footer bar 
+    
+Scenarios :-
+
+  TC_BC_001    Home Page Module        		Validate a home page load
+  TC_BC_002    Home Page Module    		Validate a search bar with valid content 
+  TC_BC_003    Home Page Module    		Validate a search bar with invalid content 
+  TC_BC_004    Home Page Module    		Validate a hover on logo in nav bar
+  TC_BC_005    Home Page Module    		Validate and all element in Footer bar 
+  TC_BC_006    Home Page Module    	 	Validate a useful link and Social link in Footer bar
+  TC_BC_007    Home Page Module    	 	Validate a compare tab (Bug)
+  TC_BC_008    Home Page Module    	 	Verify Home Page Banner Functionality 
+  TC_BC_009    Home Page Module    	 	Validate and print a list of trending category in home
+  TC_BC_010    Home Page Module    	 	Validate a Shop tab ,hover on category and filters 
+  TC_BC_011    Home Page Module    	 	Validate a contact us tab with valid details
+  TC_BC_012    Home Page Module    	 	Validate a contact us tab with invalid details
+
+
+  TC_BC_013    Login Module        		Register a user
+  TC_BC_014    Login Module        		validate a login page with valid credential
+  TC_BC_015    Login Module        		validate a login page with invalid credential
+  TC_BC_016    Login Module        		validate a lost password functionality
+
+
+  TC_BC_017    Browse Category Module   trending cloth     Validate and print a overall cloth price and Brand
+  TC_BC_018    Browse Category Module   trending cloth     Validate and print a filter cloth Description with brand name
+  TC_BC_019    Browse Category Module   trending cloth     Validate a description handling like change a product colour and size
+  TC_BC_020    Browse Category Module   trending cloth     Validate a show tab in count
+  TC_BC_021    Browse Category Module   trending cloth     Validate a show tab in grid
+  TC_BC_022    Browse Category Module   Digital Asset      Validate a Add to favorite in one Digital asset
+  TC_BC_023    Browse Category Module   Digital Asset      Validate a flow to add to cart and checkout
+  TC_BC_024    Browse Category Module   Anime Hub          Validate and print a count of product in Anime category
+  TC_BC_025    Browse Category Module   Anime Hub          Validate and print a sort tab
+  TC_BC_026    Browse Category Module   Anime Hub          Validate a product to add to cart in category page
+  TC_BC_027    Browse Category Module   Verified Cloth     Validate a product to add to cart in category page and cancel the add to card tab
+  TC_BC_028    Browse Category Module   Verified Cloth     Validate a price filter and print the product count and details
+  TC_BC_029    Browse Category Module   Verified Cloth     Validate a Stock Status checkbox
+  TC_BC_030    Browse Category Module   Valentine          Validate a color filter  and print the product count and details
+  TC_BC_031    Browse Category Module   Valentine          Validate a Size filter and print the product count and details
+  TC_BC_032    Browse Category Module   Valentine          Validate a Top rated product 
+  TC_BC_033    Browse Category Module   Special Offer      Validate and print a response
+  TC_BC_034    Browse Category Module   Valentine          Validate a Description Handling in product tab
+
+Coding related 
+
+  TC_BC_035    Home Page Module    	 	           Validate and print a count of overall product in shop
+  TC_BC_036    Browse Category Module   Valentine          Validate and print a maximum price and minimum price product detail
+  TC_BC_037    Browse Category Module   Anime Hub          Validate and print a High Rated product details
+  TC_BC_038    Browse Category Module   Verified Cloth     Validate and print a Most reviewed product details
+  TC_BC_039    Browse Category Module   trending cloth     Validate and print a Zero review details of selected product
+  TC_BC_040    Shopping Cart                               Validate and print a detail of tshirt when tshirt Price is more than 800
+  TC_BC_041    Checkout   	 	                   Validate and print a detail of tshirt when tshirt size is " M "
+
+
+
+  TC_BC_042    Shopping Cart    Validate a add to cart from search and select a product to handling a description and add to cart a product
+  TC_BC_043    Shopping Cart    Validate and print a product detail in add to cart list
+  TC_BC_044    Shopping Cart    Validate a functionality for changing a quantity 
+  TC_BC_045    Shopping Cart    Validate a coupon code functionality
+
+  TC_BC_046    Checkout         Validate a add to cart page with valid details and place a order
+  TC_BC_047    Checkout         Validate a add to cart page with invalid details and place a order
+  TC_BC_048    Checkout         Validate and print order summary detail
+  TC_BC_049    Checkout         Validate a total cost in order summary with total cost of product in add to cart list
+
+  TC_BC_050    Payment          Validate a applying a offer and coupon and take a screenshot
+  TC_BC_051    Payment          Validate a change a number and visible a QR code
+  TC_BC_052    Payment          Validate a leaving checkout page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day 1 Plan:-
+
